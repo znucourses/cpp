@@ -1,2 +1,2 @@
 # cpp
-The cpp course is about programming basic course 
+The cpp course is about programming basics 
